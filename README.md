@@ -1,0 +1,3 @@
+## My reading notes for the book *Designing Data-Intensive Applications" (DDIA)
+
+I came across this book when I was browsing Zhihu several months ago. Some people were posting articles saying how good this book is. I am in the middle of re-designing the workflow engine of our Texera project and I thought this book might be helpful to me. I bought this book on Amazon on December 2017, and started reading it on Feb 2, 2018. This git repository will contain my reading notes for this book. I hope this repo will urge me to finish reading it rather than leave it in the bookshelf after reading the first chapter. 
